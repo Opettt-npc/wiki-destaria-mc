@@ -7,20 +7,21 @@
 * [🌏 World](informasi-umum/world/README.md)
   * [Warps](informasi-umum/world/warps.md)
 
-## Fitur&#x20;
+## Fitur
 
 * [💡 Fitur standar](fitur/fitur-standar.md)
 * [🚀 Fitur unik](fitur/fitur-unik.md)
 
 ## Rank
 
-* [💸 Rank standar](rank/rank-standar/README.md)
+* [💸 Rank Standar](rank/rank-standar/README.md)
   * [Abiseka (Guest)](rank/rank-standar/abiseka-guest.md)
   * [Raynar (Member)](rank/rank-standar/raynar-member.md)
   * [Arganta (Citizen)](rank/rank-standar/arganta-citizen.md)
   * [Bajra (Advanced)](rank/rank-standar/bajra-advanced.md)
   * [Sepuh (Veteran)](rank/rank-standar/sepuh-veteran.md)
-* [💰 Rank donator](rank/rank-donator.md)
+* [💰 Rank Donator](rank/rank-donator.md)
+* [✨ Rank Special](rank/rank-special.md)
 
 ## Rules
 
@@ -28,5 +29,12 @@
 
 ## Team Staff
 
-* [👋 List Staff](team-staff/list-staff/README.md)
+* [👔 List Staff](team-staff/list-staff/README.md)
   * [Tim Developer](team-staff/list-staff/tim-developer.md)
+  * [Tim Admin](team-staff/list-staff/tim-admin.md)
+  * [Tim Moderator](team-staff/list-staff/tim-moderator.md)
+  * [Tim Builder](team-staff/list-staff/tim-builder.md)
+  * [Discord Manager](team-staff/list-staff/discord-manager.md)
+  * [Social Media Management](team-staff/list-staff/social-media-management.md)
+  * [Art Designer](team-staff/list-staff/art-designer.md)
+  * [Writer](team-staff/list-staff/writer.md)

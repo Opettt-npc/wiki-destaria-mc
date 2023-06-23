@@ -7,17 +7,15 @@ coverY: 0
 
 # 🗒 Rules
 
-
-
 {% hint style="info" %}
 **Tip:** Jika kamu melanggar salah satu rules, kamu bisa meminta appeal agar hukuman kamu, di ringankan atau di hilangkan jika terbukti tidak bersalah
 {% endhint %}
 
 Yang paling umum dilakukan tindakan tindakan <mark style="color:red;">**Griefing**</mark>, <mark style="color:red;">**Hacking Client**</mark>, <mark style="color:red;">**abuse bug**</mark> jangan pernah dilakukan jika tidak mau ke banned ip oleh staff yg bertugas dan bisa di ringankan dengan apa saja yg di lakukan tidak untuk pengguna <mark style="color:red;">**Hack client**</mark> dan name yang menyesatkan
 
-jika anda mengalami false report bisa melapor ke discord destaria
+Jika kamu mengalami false report bisa langsung melapor ke Discord Destaria dan silahkan membuka ticket!
 
-destaria selalu membantu ketika kesulitan
+Destaria selalu membantu dengan senang hati ketika kamu kesulitan!
 
 {% embed url="https://discord.gg/rvkcMa89fa" %}
 DestariaMc Grub
@@ -56,5 +54,3 @@ DestariaMc Grub
 15\. Setiap farm yang menggunakan hopper minecart harus memiliki unload station di salah satu ujung rails. dimana minecart akan berhenti dan unload semua item yang berada di dalamnya <mark style="color:red;">**(Farm dihancurkan tanpa refund)**</mark>
 
 </details>
-
-&#x20;                                                                                                                                                 &#x20;
