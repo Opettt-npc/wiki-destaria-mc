@@ -4,7 +4,7 @@ description: Apasih katanya bukan server P2W >:(
 
 # 💰 Rank Donator
 
-### Rank Donator?
+### Rank <mark style="color:green;">Donator</mark>?
 
 Rank yang kami berikan pada donator donator yang dengan dompet mereka yang kosong itu berani untuk donate ke Destaria.
 
@@ -20,7 +20,7 @@ Rank Premium atau juga di Season 2 ini disebut "Reswara", Rank premium ini bisa 
 
 <summary>Knight (Ksatria)</summary>
 
-Knight atau juga di Season 2 ini disebut "Ksatria", Dengan rank ini kamu bisa mengakses 3 EnderVault! Kamu juga bisa mengakses Anvil, Crafting table dan Enchantment table dari mana saja menggunakan Command! <mark style="color:blue;">**\[/Anvil] \[/Craft]**</mark>
+Knight atau juga di Season 2 ini disebut "Ksatria", Dengan rank ini kamu bisa mengakses 3 EnderVault! Kamu juga bisa mengakses Anvil, Crafting table dan Enchantment table dari mana saja menggunakan Command! <mark style="color:blue;">**/Anvil    /Craft**</mark>
 
 </details>
 

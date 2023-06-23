@@ -4,7 +4,7 @@ description: Informasi tentang Donate
 
 # 💵 Donation
 
-> Bagi petualang yang memiliki dana lebih dan mau berdonasi ke server ini, silahkan kalian buka tiket di destaria-ticker(Discord)lalu pilih kategori Donate.&#x20;
+> Bagi petualang yang memiliki dana lebih dan mau berdonasi ke server ini, silahkan kalian buka tiket di destaria-ticket(Discord) lalu pilih kategori Donate.&#x20;
 >
 > **Donate Rank** **➥ RESWARA** Rp. 5000 / Bulan&#x20;
 >
