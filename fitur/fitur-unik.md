@@ -8,7 +8,7 @@ description: Fitur Fitur yang ga ada di server lain selain DestariaMc
 
 <summary>🥏Elevator</summary>
 
-Elevator bisa dibuat dengan shulker box, chest, dan beberapa wool. Elevator bisa digunakan dengan Jump(keatas) dan Sneak(kebawah)
+Elevator bisa dibuat dengan shulker box, chest, dan beberapa wool. Elevator bisa digunakan dengan Jump(keatas) dan Sneak(kebawah). Recipe Elevator bisa di cari di Crafting table.
 
 </details>
 

@@ -21,7 +21,11 @@
   * [Bajra (Advanced)](rank/rank-standar/bajra-advanced.md)
   * [Sepuh (Veteran)](rank/rank-standar/sepuh-veteran.md)
 * [💰 Rank Donator](rank/rank-donator.md)
-* [✨ Rank Special](rank/rank-special.md)
+* [✨ Rank Special](rank/rank-special/README.md)
+  * [Kaloka (Youtuber)](rank/rank-special/kaloka-youtuber.md)
+  * [Kanaka (Special)](rank/rank-special/kanaka-special.md)
+  * [Pradana (Alpha)](rank/rank-special/pradana-alpha.md)
+  * [Pancaka (Beta)](rank/rank-special/pancaka-beta.md)
 
 ## Rules
 
@@ -38,3 +42,8 @@
   * [Social Media Management](team-staff/list-staff/social-media-management.md)
   * [Art Designer](team-staff/list-staff/art-designer.md)
   * [Writer](team-staff/list-staff/writer.md)
+
+## 😁 Membantu Server
+
+* [💵 Donation](membantu-server/donation.md)
+* [📚 Vote](membantu-server/vote.md)

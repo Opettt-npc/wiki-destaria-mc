@@ -2,13 +2,11 @@
 description: Apasih katanya bukan server P2W >:(
 ---
 
-# 💰 Rank donator
+# 💰 Rank Donator
 
 ### Rank Donator?
 
-Rank yang kami berikan pada donator donator yang dengan dompet mereka yang kosong itu berani untuk donate ke destaria.
-
-
+Rank yang kami berikan pada donator donator yang dengan dompet mereka yang kosong itu berani untuk donate ke Destaria.
 
 <details>
 
