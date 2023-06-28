@@ -1,5 +1,7 @@
 ---
 description: Apa aja sih World yang ada di DestariaMc?
+cover: ../../.gitbook/assets/2OmL7fwV_4x.jpg
+coverY: 0
 ---
 
 # 🌏 World

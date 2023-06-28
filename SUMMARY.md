@@ -47,3 +47,9 @@
 
 * [💵 Donation](membantu-server/donation.md)
 * [📚 Vote](membantu-server/vote.md)
+
+## 🐛 Miscellaneous
+
+* [🎐 Event](miscellaneous/event.md)
+* [📈 Quiz](miscellaneous/quiz.md)
+* [❓ Pertanyaan](miscellaneous/pertanyaan.md)

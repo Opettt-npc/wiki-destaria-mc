@@ -32,40 +32,35 @@ Tahukah kamu bahwa DestariaMc adalah SATU satunya server indonesia yang mengguna
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f5bc">🖼</span>ItemFrame Decoration</summary>
-
-Dengan Fitur ItemFrame ini, kamu bisa mendekorasi Build mu menjadi lebih detail, ini contoh nya
-
-<img src="../.gitbook/assets/2023-01-31_19.54.30.png" alt="" data-size="original">
-
-Seperti yang anda lihat di foto tersebut, ada 4 Glasspane yang menempel tanpa Itemframe, Itu karena dengan fitur ini kamu bisa menyembunyikan Itemframe nya tanpa menghilangkan Item yang ditempelkan di Itemframe tersebut.
-
-</details>
-
-<details>
-
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f3e6">🏦</span>Bank</summary>
-
-Di destariaMc kamu dapat menyimpan uang dengan aman tanpa pajak, uang yang kamu deposit akan terus bertambah dan bertambah berkat bunga dari bank tersebut, namun untuk mencapai lebih banyak limit deposit kamu perlu membayar bank untuk menaikkan level bank <mark style="color:blue;">**/bank**</mark>
-
-<img src="../.gitbook/assets/2023-01-31_22.34.36.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f517">🔗</span>ChestLink</summary>
-
-Dengan ChestLink, kamu tidak perlu memikir kan tempat untuk saluran hoppermu, kamu hanya perlu 2 sign untuk membuat 2 chest terhubung, seberapapun jauh jarak nya.
-
-<img src="../.gitbook/assets/2023-01-31_22.38.15.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f6aa">🚪</span>BigDoors</summary>
 
 Dengan Fitur ini, kamu dapat mengcustom Pintu mu! kamu dapat membuka dan mentutup pintu dengan animasi yang keren! Hampir tidak ada server lain yang mempunyai Fitur seperti ini, Dengan adanya fitur ini kamu dapat membuat jalan rahasia yang hanya kamu sendiri bisa buka lewat <mark style="color:blue;">**/bdm**</mark>
+
+</details>
+
+<details>
+
+<summary>🛡 RedProtect</summary>
+
+RedProtect atau biasa dipanggil rp adalah fitur yang digunakan untuk ngeclaim area yang sudah ditentukan untuk membuat area yang sudah di claim tidak bisa dihancurkan oleh player lain yang belum di add member di dalam area claim tersebut.\
+Jika kamu masih bingung gimana cara untuk ngeclaim rp, kamu bisa ketik <mark style="color:blue;">**/caraclaim**</mark> atau <mark style="color:blue;">**/warp tutorial**</mark> di chat.
+
+</details>
+
+<details>
+
+<summary>🎭Nickname</summary>
+
+Seperti namanya, fitur ini memperbolehkan kamu untuk men-Disguise nickname minecraft kamu menjadi nama yang kamu mau <mark style="color:blue;">**/nick**</mark> (Donatur+ Rank)
+
+</details>
+
+<details>
+
+<summary>🔥Temperature</summary>
+
+Temperature bisa dilihat di scoreboard mu. Temp bisa dipengaruh oleh biome, dan block. \
+Jika Temperature mu terlalu tinggi kamu bisa saja mendapatkan Effect slowness 1 sampai slowness 3, jika kamu di dessert kamu bisa sampai terbakar jika terlalu lama di temperature tinggi.\
+Jika Temperature mu terlalu rendah, kamu bisa terkena effect beku dan memperlambat jalanmu, kamu juga bisa terkena effect hunger.
 
 </details>

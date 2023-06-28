@@ -1,7 +1,6 @@
 ---
 description: Berikut adalah rules dari server DestariaMc, harap di patuhi ya! :o
-cover: >-
-  https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
+cover: ../.gitbook/assets/rules.png
 coverY: 0
 ---
 
@@ -17,9 +16,31 @@ Jika kamu mengalami false report bisa langsung melapor ke Discord Destaria dan s
 
 Destaria selalu membantu dengan senang hati ketika kamu kesulitan!
 
+
+
+Note: \
+\[...] = kondisi, jika terpenuhi maka hukuman langsung berlaku
+
+(...) = Hukuman minimal yang harus diberikan jika pelanggaran memenuhi kondisi
+
 {% embed url="https://discord.gg/rvkcMa89fa" %}
 DestariaMc Grub
 {% endembed %}
+
+<details>
+
+<summary>Discord Rules</summary>
+
+1. Tidak diperkenankan chat dengan berkata kasar, membahas pornografi, SARA, Spam, Flood, membahas LGBTQ+ dan advertising tanpa seijin staff.
+2. Saling menghormati dan menghargai sesama player.
+3. Dilarang mengemis role staff.
+4. Dilarang menggunakan Username, Nick, dan nama item yang tidak sopan, mengandung advertising, menagndung unusr LBTQ+, berisi propaganda, dan bersifat SARA.
+5. Dilarang BULLYING Respect semua player, terutama player yang baru bergabung
+6. Dilarang PROMOSI SERVER LAIN Mengajak player Destaria untuk bermain di server lain. Player Destaria juga dianjurkan untuk tidak promosi di server Minecraft lain
+7. Dilarang meminta OP ke staff (Ban-ip +ban Discord)
+8. Tidak diperkenankan untuk DM maupun tag @STAFF, apalagi @OWNER Jika tidak ada urusan penting dan mendesak. \[contoh bugs yang sangat parah, Hacker dengan bypass, data corrupt, server crash dalam waktu lebih dari 1 jam, dll] (Ban discord + ban-ip jika yang di DM dalam mood yang tidak baik)
+
+</details>
 
 <details>
 
@@ -31,26 +52,42 @@ DestariaMc Grub
 
 3\. Dilarang Meminta OP, rank, dan rank staff \[Staff merasa terganggu] <mark style="color:red;">**(Ban-ip Perm + Discord ban)**</mark>
 
-5\. Gunakanlah kata-kata yang baik dan sopan, tidak mengandung unsur <mark style="color:red;">**SARA**</mark> dan advertising. Baik di chat maupun nickname
+4\. Gunakanlah kata-kata yang baik dan sopan, tidak mengandung unsur <mark style="color:red;">**SARA**</mark> dan advertising. Baik di chat maupun nickname
 
-6\. Dilarang spam di chat dan mengganggu kenyamanan player lain.
+5\. Dilarang spam di chat dan mengganggu kenyamanan player lain.
 
-7\. Saling menghormati dan menghargai baik sesama player maupun staff.
+6\. Saling menghormati dan menghargai baik sesama player maupun staff.
 
-8\. Dilarang melakukan <mark style="color:red;">**Griefing**</mark> DIMANAPUN, baik di dalam claim land, dan di sekitar claim land dalam render distance terjauh \[10 chunk].
+7\. Dilarang melakukan <mark style="color:red;">**Griefing**</mark> DIMANAPUN, baik di dalam claim land, dan di sekitar claim land dalam render distance terjauh \[10 chunk].
 
-9\. Biasakan mandiri dan jangan mengemis item, bal, dan hal apapun kepada player dan staff <mark style="color:blue;">**\[Member dan/atau staff report dan/atau merasa terganggu]**</mark> <mark style="color:red;">**(WARN 2)**</mark>
+8\. Biasakan mandiri dan jangan mengemis item, bal, dan hal apapun kepada player dan staff <mark style="color:blue;">**\[Member dan/atau staff report dan/atau merasa terganggu]**</mark> <mark style="color:red;">**(WARN 2)**</mark>
 
-10\. Farm menggunakan spawner diharuskan memiliki toggle agar dapat di nonaktifkan.
+9\. Farm menggunakan spawner diharuskan memiliki toggle agar dapat di nonaktifkan.
 
-11\. Membuat <mark style="color:red;">**lag machine**</mark> dan melakukan hal yang membuat server lag dengan sengaja \[TPS drop atau crash] (Ban-ip + ban discord)
+10\. Membuat <mark style="color:red;">**lag machine**</mark> dan melakukan hal yang membuat server lag dengan sengaja \[TPS drop atau crash] (Ban-ip + ban discord)
 
-12\. <mark style="color:red;">**Abuse bug**</mark> / glitch untuk memperkaya diri \[Tidak dilaporkan] (Ban 30 hari)
+11\. <mark style="color:red;">**Abuse bug**</mark> / glitch untuk memperkaya diri \[Tidak dilaporkan] (Ban 30 hari)
 
-13\. Gunakan maptool sewajarnya \[Map terlalu besar, terlalu banyak map dalam area kecil] <mark style="color:red;">**(Banip 30 hari & wipe map / Base di wipe bersih]**</mark>
+12\. Gunakan maptool sewajarnya \[Map terlalu besar, terlalu banyak map dalam area kecil] <mark style="color:red;">**(Banip 30 hari & wipe map / Base di wipe bersih]**</mark>
 
-14\. Map yang digunakan dilarang mengandung unsur SARA, pornografi, propaganda, hinaan, dan hal lainnya yang mengganggu kenyamanan bersama \[Map tidak dihancurkan dalam waktu 1 detik] <mark style="color:red;">**(Ban-ip 90 hari & base di wipe bersih)**</mark>.
+13\. Map yang digunakan dilarang mengandung unsur SARA, pornografi, propaganda, hinaan, dan hal lainnya yang mengganggu kenyamanan bersama \[Map tidak dihancurkan dalam waktu 1 detik] <mark style="color:red;">**(Ban-ip 90 hari & base di wipe bersih)**</mark>.
 
-15\. Setiap farm yang menggunakan hopper minecart harus memiliki unload station di salah satu ujung rails. dimana minecart akan berhenti dan unload semua item yang berada di dalamnya <mark style="color:red;">**(Farm dihancurkan tanpa refund)**</mark>
+14\. Setiap farm yang menggunakan hopper minecart harus memiliki unload station di salah satu ujung rails. dimana minecart akan berhenti dan unload semua item yang berada di dalamnya <mark style="color:red;">**(Farm dihancurkan tanpa refund)**</mark>
+
+15.Auto farm diperbolehkan, kecuali afk fish farm dan farm yang overpower seperti trident farm, enderman farm, guardian farm dan iron golem farm menggunakan villager. enderman farm, ghastfarm, goldfarm nether, trident farm, raid farm, afk fish farm, full afk farm dengan redstone super gede, guardian farm, iron golem farm. <mark style="color:green;">**\[Tidak dalam masa testing]**</mark>
+
+</details>
+
+<details>
+
+<summary>Staff Rules</summary>
+
+1. Bersikap sportif dalam progress survival.
+2. Dilarang memberikan item kepada player tanpa alasan yang jelas.
+3. Dilarang melakukan tindakan abuse. Seperti menggunakan tpall secara sembarangan, spawn custom mob sembarangan, membuat item dengan level enchant tidak wajar, dll. (Warn 2)
+4. Dilarang melakukan ban dan warn tanpa alasan \[kecuali untuk testing].
+5. Menjaga integritas dan nama baik DestariaMc
+6. Tidak membocorkan rahasia server. Termasuk, namun tidak terbatas pada plugins, file-file server, data pribadi staff, data penting, ip server test, serta ipv4 server (Banip + Ban Discord + Diberhentikan secara tidak hormat)
+7. Tegur player secara private, jaga sopan santun, dan atasi masalah tanpa konflik
 
 </details>
