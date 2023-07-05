@@ -11,7 +11,16 @@
 
 * [💡 Fitur standar](fitur/fitur-standar/README.md)
   * [Page 2](fitur/fitur-standar/page-2.md)
-* [🚀 Fitur unik](fitur/fitur-unik.md)
+* [🚀 Fitur unik](fitur/fitur-unik/README.md)
+  * [↕  Elevator](fitur/fitur-unik/elevator.md)
+  * [🕊 TempFly](fitur/fitur-unik/tempfly.md)
+  * [🌏 Custom World Generation](fitur/fitur-unik/custom-world-generation.md)
+  * [🚪 BigDoors](fitur/fitur-unik/bigdoors.md)
+  * [🛡 RedProtect](fitur/fitur-unik/redprotect.md)
+  * [🎭 Nickname](fitur/fitur-unik/nickname.md)
+  * [❄ Temperature](fitur/fitur-unik/temperature.md)
+  * [👜 ChestLink/Chest++](fitur/fitur-unik/chestlink-chest++.md)
+  * [⌛ AutoCraft](fitur/fitur-unik/autocraft.md)
 * [Page 1](fitur/page-1.md)
 
 ## Rank

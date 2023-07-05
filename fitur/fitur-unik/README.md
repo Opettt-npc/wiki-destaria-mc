@@ -26,7 +26,7 @@ TempFly atau Temporary Fly adalah fitur gratis yang bisa diakses semua rank di d
 
 Tahukah kamu bahwa DestariaMc adalah SATU satunya server indonesia yang menggunakan Custom world generator? ini artinya destaria bisa membuat biome biome unik dan structure sctructure secara otomatis dan alami
 
-<img src="../.gitbook/assets/2023-01-31_19.52.31.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/2023-01-31_19.52.31.png" alt="" data-size="original">
 
 </details>
 
@@ -83,7 +83,9 @@ Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penggunan
 
 Fitur AutoCraft merupakan fitur yang dapat digunakan bersamaan dengan ChestLink. Fitur AutoCraft sendiri digunakan untuk mengcraft suatu barang dengan cepat / auto. Fitur ini hanya dapat digunakan oleh rank Ksatria, Bahaduri, dan rank- rank seterusnya.\
 \
-<mark style="color:blue;">**(/autochest help untuk mengetahui lebih lanjut)**</mark>\
-
+Command AutoCraft :\
+&#x20; A. /autocraft add (untuk membuat crafting table menjadi AutoCraft group)\
+&#x20; B. /autocraft remove (untuk menghapus AutoCraft group yang sudah ada)\
+&#x20; C. /autocraft open
 
 </details>
