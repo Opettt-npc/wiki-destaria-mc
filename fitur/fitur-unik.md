@@ -6,7 +6,7 @@ description: Fitur Fitur yang ga ada di server lain selain DestariaMc
 
 <details>
 
-<summary>🥏Elevator</summary>
+<summary>🥏<strong>Elevator</strong></summary>
 
 Elevator bisa dibuat dengan shulker box, chest, dan beberapa wool. Elevator bisa digunakan dengan keybind, Jump(keatas) dan Sneak(kebawah). Recipe Elevator bisa di cari di Crafting table.
 
@@ -69,7 +69,9 @@ Jika Temperature mu terlalu rendah, kamu bisa terkena effect beku dan memperlamb
 
 <summary>💼ChestLink</summary>
 
-Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penggunanya saat menyimpan barang di Chest dengan cara menhubungkan isi Chest dengan Chest lainnya. Kamu bisa menggunakan ChestLink dengan command <mark style="color:blue;">**/chestlink help**</mark>
+Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penggunanya saat menyimpan barang di Chest dengan cara menghubungkan isi Chest dengan Chest lainnya. \
+\
+<mark style="color:blue;">**(/chestlink help untuk mengetahui lebih lanjut)**</mark>
 
 
 
@@ -79,6 +81,9 @@ Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penggunan
 
 <summary>⏱️AutoCraft</summary>
 
-Fitur AutoCraft merupakan fitur yang dapat digunakan bersamaan dengan ChestLink. Fitur AutoCraft sendiri digunakan untuk mengcraft suatu barang dengan cepat / auto. Fitur ini hanya dapat digunakan oleh rank Ksatria, Bahaduri, dan rank- rank seterusnya. Kamu bisa menggunakan fitur AutoCraft dengan command <mark style="color:blue;">**/autocraft help**</mark>
+Fitur AutoCraft merupakan fitur yang dapat digunakan bersamaan dengan ChestLink. Fitur AutoCraft sendiri digunakan untuk mengcraft suatu barang dengan cepat / auto. Fitur ini hanya dapat digunakan oleh rank Ksatria, Bahaduri, dan rank- rank seterusnya.\
+\
+<mark style="color:blue;">**(/autochest help untuk mengetahui lebih lanjut)**</mark>\
+
 
 </details>
