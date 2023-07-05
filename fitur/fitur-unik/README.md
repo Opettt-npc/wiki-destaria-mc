@@ -1,6 +1,6 @@
 ---
-description: Fitur Fitur yang mungkin ada di server lain & DestariaMc
+description: Fitur Fitur yang membuat Destaria unik dan seru!
 ---
 
-# 🚀 Fitur unik
+# 🚀 Fitur Unik
 

@@ -11,7 +11,7 @@
 
 * [💡 Fitur standar](fitur/fitur-standar/README.md)
   * [Page 2](fitur/fitur-standar/page-2.md)
-* [🚀 Fitur unik](fitur/fitur-unik/README.md)
+* [🚀 Fitur Unik](fitur/fitur-unik/README.md)
   * [↕  Elevator](fitur/fitur-unik/elevator.md)
   * [🕊 TempFly](fitur/fitur-unik/tempfly.md)
   * [🌏 Custom World Generation](fitur/fitur-unik/custom-world-generation.md)
