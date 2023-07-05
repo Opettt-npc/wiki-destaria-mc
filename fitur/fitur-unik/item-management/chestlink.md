@@ -1,4 +1,4 @@
-# 👜 ChestLink/Chest++
+# 👜 ChestLink
 
 Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penggunanya saat menyimpan barang di Chest dengan cara menghubungkan isi Chest dengan Chest lainnya. \
 \
@@ -16,4 +16,3 @@ Command List : \
 &#x20;• /chestlink setpublic \[false] | "Atur agar group tidak terlihat public"\
 &#x20;• /chestlink rename | "Mengubah nama suatu group"\
 &#x20;• /chestlink sort | "Membedakan/Menggolongkan jenis pada group"\
-\

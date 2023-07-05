@@ -1,4 +1,4 @@
-# ⌛ AutoCraft
+# ⏳ AutoCraft
 
 Fitur AutoCraft merupakan fitur yang dapat digunakan bersamaan dengan ChestLink/Chest++. Fitur AutoCraft sendiri digunakan untuk mengcraft suatu barang dengan cepat / auto. Fitur ini hanya dapat digunakan oleh rank Ksatria, Bahaduri, dan rank-rank seterusnya.\
 \

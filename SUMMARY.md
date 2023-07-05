@@ -19,9 +19,9 @@
   * [🛡 RedProtect](fitur/fitur-unik/redprotect.md)
   * [🎭 Nickname](fitur/fitur-unik/nickname.md)
   * [❄ Temperature](fitur/fitur-unik/temperature.md)
-  * [👜 ChestLink/Chest++](fitur/fitur-unik/chestlink-chest++.md)
-  * [⌛ AutoCraft](fitur/fitur-unik/autocraft.md)
-* [Page 1](fitur/page-1.md)
+  * [👜 Item Management](fitur/fitur-unik/item-management/README.md)
+    * [👜 ChestLink](fitur/fitur-unik/item-management/chestlink.md)
+    * [⏳ AutoCraft](fitur/fitur-unik/item-management/autocraft.md)
 
 ## Rank
 
