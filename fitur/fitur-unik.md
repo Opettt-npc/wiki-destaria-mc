@@ -14,7 +14,7 @@ Elevator bisa dibuat dengan shulker box, chest, dan beberapa wool. Elevator bisa
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f54a">🕊</span>Tempfly</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f54a">🕊</span>TempFly</summary>
 
 TempFly atau Temporary Fly adalah fitur gratis yang bisa diakses semua rank di destaria, namun rank rank standar ada batas waktu untuk waktu terbangnya, semakin bagus rank nya semakin tinggi batas waktu nya, tidak seperti server lain yang butuh bayar dulu agar bisa terbang. <mark style="color:blue;">**/fly**</mark>
 
@@ -62,5 +62,15 @@ Seperti namanya, fitur ini memperbolehkan kamu untuk men-Disguise nickname minec
 Temperature bisa dilihat di scoreboard mu. Temp bisa dipengaruh oleh biome, dan block. \
 Jika Temperature mu terlalu tinggi kamu bisa saja mendapatkan Effect slowness 1 sampai slowness 3, jika kamu di dessert kamu bisa sampai terbakar jika terlalu lama di temperature tinggi.\
 Jika Temperature mu terlalu rendah, kamu bisa terkena effect beku dan memperlambat jalanmu, kamu juga bisa terkena effect hunger.
+
+</details>
+
+<details>
+
+<summary>💼ChestLink</summary>
+
+Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penyimpanan barang di Chest dengan cara menyambungkan isi Chest dengan Chest lainnya. Kamu bisa menggunakan ChestLink dengan command /chestlink help
+
+
 
 </details>
