@@ -10,10 +10,11 @@
 ## Fitur
 
 * [💡 Fitur standar](fitur/fitur-standar/README.md)
-  * [💰 Balance](fitur/fitur-standar/balance.md)
+  * [💰 Balance](fitur/fitur-standar/page-2.md)
   * [🛒 Shop](fitur/fitur-standar/shop.md)
   * [💀 Graves](fitur/fitur-standar/graves.md)
-  * [Page 3](fitur/fitur-standar/page-3.md)
+  * [📖 Kits](fitur/fitur-standar/kits.md)
+  * [📓 Vote](fitur/fitur-standar/vote.md)
 * [🚀 Fitur Unik](fitur/fitur-unik/README.md)
   * [↕  Elevator](fitur/fitur-unik/elevator.md)
   * [🕊 TempFly](fitur/fitur-unik/tempfly.md)
