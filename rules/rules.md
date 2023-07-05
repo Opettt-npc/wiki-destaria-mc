@@ -24,7 +24,7 @@ Note: \
 (...) = Hukuman minimal yang harus diberikan jika pelanggaran memenuhi kondisi
 
 {% embed url="https://discord.gg/rvkcMa89fa" %}
-DestariaMc Grub
+DestariaMc Group
 {% endembed %}
 
 <details>

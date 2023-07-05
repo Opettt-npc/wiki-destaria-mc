@@ -9,8 +9,10 @@
 
 ## Fitur
 
-* [💡 Fitur standar](fitur/fitur-standar.md)
+* [💡 Fitur standar](fitur/fitur-standar/README.md)
+  * [Page 2](fitur/fitur-standar/page-2.md)
 * [🚀 Fitur unik](fitur/fitur-unik.md)
+* [Page 1](fitur/page-1.md)
 
 ## Rank
 
