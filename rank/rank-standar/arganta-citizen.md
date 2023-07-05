@@ -1,5 +1,5 @@
 ---
-description: Pendatang yang sudah menjadikan Dunia baru sebagai Rumahnya
+description: Pendatang yang sudah menjadikan Dunia baru sebagai Rumah Barunya
 ---
 
 # Arganta (Citizen)
