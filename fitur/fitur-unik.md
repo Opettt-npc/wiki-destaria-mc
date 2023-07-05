@@ -69,8 +69,16 @@ Jika Temperature mu terlalu rendah, kamu bisa terkena effect beku dan memperlamb
 
 <summary>💼ChestLink</summary>
 
-Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penyimpanan barang di Chest dengan cara menyambungkan isi Chest dengan Chest lainnya. Kamu bisa menggunakan ChestLink dengan command /chestlink help
+Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penggunanya saat menyimpan barang di Chest dengan cara menhubungkan isi Chest dengan Chest lainnya. Kamu bisa menggunakan ChestLink dengan command <mark style="color:blue;">**/chestlink help**</mark>
 
 
+
+</details>
+
+<details>
+
+<summary>⏱️AutoCraft</summary>
+
+Fitur AutoCraft merupakan fitur yang dapat digunakan bersamaan dengan ChestLink. Fitur AutoCraft sendiri digunakan untuk mengcraft suatu barang dengan cepat / auto. Fitur ini hanya dapat digunakan oleh rank Ksatria, Bahaduri, dan rank- rank seterusnya. Kamu bisa menggunakan fitur AutoCraft dengan command <mark style="color:blue;">**/autocraft help**</mark>
 
 </details>
