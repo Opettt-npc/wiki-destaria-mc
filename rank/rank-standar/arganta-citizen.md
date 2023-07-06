@@ -9,7 +9,7 @@ Dan pastinya <mark style="color:blue;">**/fly**</mark> dari Rank Citizen ini men
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Basic perks : </td><td>Sethome : 3<br>Kit : Citizen<br>Note : tidak bisa claim kit rank dibawahnya</td><td></td></tr><tr><td>Flight Crystal:</td><td>Max kapasitas : 280 detik<br>Max fly speed: 2</td><td></td></tr><tr><td>Land Claim: </td><td>Max jumlah claim : 4<br>Claim block limit : 3000 block</td><td></td></tr><tr><td>Spawner :</td><td>Dapat menaruh spawner, tetapi tidak bisa mendapatkan spawner dari spawner yang hancur</td><td></td></tr></tbody></table>
 
-### Daftar Command yang dapat diakses&#x20;
+### Daftar Command yang dapat diakses :
 
 Daftar command yang dapat diakses oleh Arganta hampir sama seperti rank dibawahnya tetapi menambahkan beberapa command
 

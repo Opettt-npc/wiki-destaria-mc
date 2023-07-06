@@ -7,7 +7,7 @@ coverY: 0
 # 👔 List Staff
 
 {% hint style="info" %}
-Tip. Anda bisa memanggil Moderator,Developer atau staff lainnya untuk membantu anda ketika kesulitan
+Tip. Anda bisa memanggil Moderator, Developer atau staff lainnya untuk membantu anda ketika kesulitan
 {% endhint %}
 
 Staff bermain dengan ramah seperti member biasa dan tidak melakukan hal hal yang membuat kamu rugi **(Kecuali staff yang namanya stones! :D)**
