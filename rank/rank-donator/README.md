@@ -6,7 +6,8 @@ description: Apasih katanya bukan server P2W >:(
 
 ### Rank <mark style="color:green;">Donator</mark>?
 
-Rank yang kami berikan pada donator donator yang dengan dompet mereka yang kosong itu berani untuk donate ke Destaria.
+Rank yang kami berikan pada donator yang mendonate dengan harga yang sesuai dengan rank-rank donatur \
+Note : **Untuk harga sudah di sesuaikan dan dapat di lihat pada **<mark style="color:orange;">**Server Discord DestariaMC**</mark> -> <mark style="color:red;">**Information**</mark> **dan **<mark style="color:green;">**page Donation**</mark> :D
 
 <details>
 
