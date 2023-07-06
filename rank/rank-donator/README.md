@@ -1,5 +1,7 @@
 ---
 description: Apasih katanya bukan server P2W >:(
+cover: ../../.gitbook/assets/ZENDITS (6).png
+coverY: 0
 ---
 
 # 💰 Rank Donator

@@ -12,7 +12,7 @@
 
     Membuat <mark style="color:red;">**lag machine**</mark> dan melakukan hal yang membuat server lag dengan sengaja \[TPS drop atau crash] (Ban-ip + ban discord)
 * <mark style="color:red;">**Abuse bug**</mark> / glitch untuk memperkaya diri \[Tidak dilaporkan] (Ban 30 hari)
-* Gunakan maptool sewajarnya \[Map terlalu besar, terlalu banyak map dalam area kecil] <mark style="color:red;">**(Banip 30 hari & wipe map / Base di wipe bersih]**</mark>
+* Gunakan maptool sewajarnya \[Map terlalu besar, terlalu banyak map dalam area kecil] <mark style="color:red;">**(Banip 30 hari & wipe map) / \[Base di wipe bersih]**</mark>
 * Map yang digunakan dilarang mengandung unsur SARA, pornografi, propaganda, hinaan, dan hal lainnya yang mengganggu kenyamanan bersama \[Map tidak dihancurkan dalam waktu 1 detik] <mark style="color:red;">**(Ban-ip 90 hari & base di wipe bersih)**</mark>.
 * Setiap farm yang menggunakan hopper minecart harus memiliki unload station di salah satu ujung rails. dimana minecart akan berhenti dan unload semua item yang berada di dalamnya <mark style="color:red;">**(Farm dihancurkan tanpa refund)**</mark>
 * Auto farm diperbolehkan, kecuali afk fish farm dan farm yang overpower seperti trident farm, enderman farm, guardian farm dan iron golem farm menggunakan villager. enderman farm, ghastfarm, goldfarm nether, trident farm, raid farm, afk fish farm, full afk farm dengan redstone super gede, guardian farm, iron golem farm. <mark style="color:green;">**\[Tidak dalam masa testing]**</mark>
