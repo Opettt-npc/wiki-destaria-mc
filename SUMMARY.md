@@ -41,7 +41,6 @@
   * [Ksatria (Knight)](rank/rank-donator/ksatria-knight.md)
   * [Bahaduri (Hero)](rank/rank-donator/bahaduri-hero.md)
   * [Dewani (Legend)](rank/rank-donator/dewani-legend.md)
-* [Page 1](rank/page-1.md)
 * [✨ Rank Special](rank/rank-special/README.md)
   * [Kaloka (Youtuber)](rank/rank-special/kaloka-youtuber.md)
   * [Kanaka (Special)](rank/rank-special/kanaka-special.md)
