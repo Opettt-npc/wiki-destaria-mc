@@ -1,6 +1,6 @@
 ---
 description: Berikut adalah rules dari server DestariaMc, harap di patuhi ya! :o
-cover: ../.gitbook/assets/rules.png
+cover: ../../.gitbook/assets/rules.png
 coverY: 0
 ---
 

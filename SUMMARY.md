@@ -49,7 +49,10 @@
 
 ## Rules
 
-* [🗒 Rules](rules/rules.md)
+* [🗒 Rules](rules/rules/README.md)
+  * [Discord Rules](rules/rules/discord-rules.md)
+  * [In-Game Rules](rules/rules/in-game-rules.md)
+  * [Staff Rules](rules/rules/staff-rules.md)
 
 ## Team Staff
 
