@@ -70,6 +70,17 @@
 
 ## 🐛 Miscellaneous
 
-* [🎐 Event](miscellaneous/event.md)
+* [🎐 Event](miscellaneous/event/README.md)
+  * [Build Battle Individu By BlueAgungWidu](miscellaneous/event/build-battle-individu-by-blueagungwidu.md)
+  * [Invite a Friend](miscellaneous/event/invite-a-friend.md)
+  * [Build Battle "Keberagaman Indonesia"](miscellaneous/event/build-battle-keberagaman-indonesia.md)
+  * [Event Dadakan Treasure Hunt](miscellaneous/event/event-dadakan-treasure-hunt.md)
+  * [Event Head Hunt](miscellaneous/event/event-head-hunt.md)
 * [📈 Quiz](miscellaneous/quiz.md)
-* [❓ Pertanyaan](miscellaneous/pertanyaan.md)
+* [❓ Pertanyaan](miscellaneous/pertanyaan/README.md)
+  * [Bang cara claim rp pake apa?](miscellaneous/pertanyaan/bang-cara-claim-rp-pake-apa.md)
+  * [Bang kok dibedrock 1.20 ga bisa buka smithing table?](miscellaneous/pertanyaan/bang-kok-dibedrock-1.20-ga-bisa-buka-smithing-table.md)
+  * [Bang cara dapetin uang/balance gimana?](miscellaneous/pertanyaan/bang-cara-dapetin-uang-balance-gimana.md)
+  * [Bang cara sethome gimana?](miscellaneous/pertanyaan/bang-cara-sethome-gimana.md)
+  * [Bang cara matiin pvp di rp gimana?](miscellaneous/pertanyaan/bang-cara-matiin-pvp-di-rp-gimana.md)
+  * [Bang cara biar bisa fly di rp gimana?](miscellaneous/pertanyaan/bang-cara-biar-bisa-fly-di-rp-gimana.md)
