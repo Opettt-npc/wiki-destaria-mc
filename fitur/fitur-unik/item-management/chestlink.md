@@ -16,3 +16,6 @@ Command List : \
 &#x20;• /chestlink setpublic \[false] | "Atur agar group tidak terlihat public"\
 &#x20;• /chestlink rename | "Mengubah nama suatu group"\
 &#x20;• /chestlink sort | "Membedakan/Menggolongkan jenis pada group"\
+\
+Note : **Click link dibawah untuk tutorial ChestLink** :arrow\_down:\
+[https://www.youtube.com/watch?v=K22zGcJP75U\&pp=ygUSY2hlc3RsaW5rIHR1dG9yaWFs](https://www.youtube.com/watch?v=K22zGcJP75U\&pp=ygUSY2hlc3RsaW5rIHR1dG9yaWFs)
