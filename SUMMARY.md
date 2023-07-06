@@ -5,7 +5,16 @@
 ## Informasi umum
 
 * [🌏 World](informasi-umum/world/README.md)
-  * [Warps](informasi-umum/world/warps.md)
+  * [Warps](informasi-umum/world/warps/README.md)
+    * [Tutorial](informasi-umum/world/warps/tutorial.md)
+    * [Parkour Maze](informasi-umum/world/warps/parkour-maze.md)
+    * [Arena](informasi-umum/world/warps/arena.md)
+    * [Gacha](informasi-umum/world/warps/gacha.md)
+    * [Spawn](informasi-umum/world/warps/spawn.md)
+    * [Reso](informasi-umum/world/warps/reso.md)
+    * [Survival](informasi-umum/world/warps/survival.md)
+    * [Pabji](informasi-umum/world/warps/pabji.md)
+    * [Rules](informasi-umum/world/warps/rules.md)
 
 ## Fitur
 
