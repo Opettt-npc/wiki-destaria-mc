@@ -52,10 +52,11 @@
   * [Bahaduri (Hero)](rank/rank-donator/bahaduri-hero.md)
   * [Dewani (Legend)](rank/rank-donator/dewani-legend.md)
 * [✨ Rank Special](rank/rank-special/README.md)
+  * [Pancaka (Beta)](rank/rank-special/pancaka-beta.md)
+  * [Pradana (Alpha)](rank/rank-special/pradana-alpha.md)
   * [Kaloka (Youtuber)](rank/rank-special/kaloka-youtuber.md)
   * [Kanaka (Special)](rank/rank-special/kanaka-special.md)
-  * [Pradana (Alpha)](rank/rank-special/pradana-alpha.md)
-  * [Pancaka (Beta)](rank/rank-special/pancaka-beta.md)
+* [😁 Kesetaraan Rank-Rank](rank/kesetaraan-rank-rank.md)
 
 ## Rules
 

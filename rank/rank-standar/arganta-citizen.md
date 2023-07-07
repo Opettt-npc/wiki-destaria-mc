@@ -11,7 +11,7 @@ Dan pastinya <mark style="color:blue;">**/fly**</mark> dari Rank Citizen ini men
 
 ### Daftar Command yang dapat diakses :
 
-Daftar command yang dapat diakses oleh Arganta hampir sama seperti rank dibawahnya tetapi menambahkan beberapa command
+Daftar command yang dapat diakses oleh Arganta hampir sama seperti rank dibawahnya tetapi hanya menambahkan beberapa command
 
 <details>
 

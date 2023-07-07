@@ -11,7 +11,7 @@ Dengan naik ke rank ini, Batas durasi <mark style="color:blue;">**/fly**</mark> 
 
 ### Daftar Command yang dapat diakses :
 
-Daftar command yang dapat diakses oleh Raynar hampir sama seperti rank Abiseka tetapi menambahkan command :
+Daftar command yang dapat diakses oleh Raynar hampir sama seperti rank Abiseka tetapi hanya menambahkan command :
 
 <details>
 

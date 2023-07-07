@@ -1,5 +1,5 @@
 ---
-description: Penjelasan Rank Veteran
+description: Seorang pengembara yang sudah lama berada di Dunia baru
 ---
 
 # Sepuh (Veteran)
@@ -11,7 +11,7 @@ Mencapai Rank Veteran adalah titik puncak grinding kalian, lalu apakah grinding 
 
 ### Daftar Command yang bisa diakses :
 
-Daftar command yang dapat diakses oleh Sepuh hampir sama seperti rank dibawahnya tetapi menambahkan beberapa command
+Daftar command yang dapat diakses oleh Sepuh hampir sama seperti rank dibawahnya tetapi hanya menambahkan beberapa command
 
 <details>
 
