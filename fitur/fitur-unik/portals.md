@@ -18,7 +18,7 @@ Pertama-tama, Kamu perlu membangun bingkai portal. Bingkai tersebut dapat dibang
 
 Bingkai portal terbentuk dari lingkaran tertutup blok dengan bentuk apa pun. Seperti portal nether, block tepi tidak dihitung, tetapi hanya blok yang menyentuh bagian dalam portal dengan setidaknya satu sisi. Ruang terkurung tersebut akan menjadi area portal.
 
-Blok netherite, juga disebut block asal, menandai block tempat pemain tiba setelah melakukan perjalanan. Setidaknya harus ada 1x3 blok area portal di atas block netherite, sehingga pemain dapat melewati tanpa tercekik. Dengan portal horizontal, lokasi block netherite tidak penting karena pemain selalu tiba di tengah.\
+Blok netherite, juga disebut block asal, menandai block tempat pemain tiba setelah melakukan perjalanan. Setidaknya harus ada 1x3 blok area portal di atas block netherite, sehingga pemain dapat melewati tanpa terkena damage suffocate. Dengan portal horizontal, lokasi block netherite tidak penting karena pemain selalu tiba di tengah.\
 ![](../../.gitbook/assets/portal-frame-construction.gif)\
 \
 \
