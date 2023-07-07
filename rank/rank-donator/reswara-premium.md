@@ -5,7 +5,7 @@ Note : **Click kanan pada mob untuk di naiki / menaiki mob**
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Basic Perks :</td><td><p>Sethome : 4</p><p>Kit : Reswara <br>Note : Tidak bisa claim kit dibawahnya</p></td><td></td></tr><tr><td>Flight Crystal :</td><td>Max kapasitas : 960 detik (mendapatkan 55 detik bonus flytime setiap hari) Max fly speed : 4 [survi] World lain : 3<br>Bisa menggunakan semua jenis trails, kecuali flash<br></td><td></td></tr><tr><td>Land Claim</td><td>Max jumlah claim : 7<br>Max block limit : 8000 block</td><td></td></tr><tr><td>Spawner :</td><td>Dapat menaruh spawner, dan bisa mendapatkan spawner dari spawner yang hancur</td><td></td></tr><tr><td>PlayerVault :</td><td>Bisa memakai Vault dengan command : /pv<br>PlayerVault : 2</td><td></td></tr><tr><td>Mob Rider : </td><td>Bisa mengendarai mobs : axolotl, bat, bee, cat, chicken, cow, fox, iron_golem, llama, mooshroom, ocelot, panda, parrot, phantom, pig, rabbit, ravager, sheep, wolf, zoglin, dolphin</td><td></td></tr><tr><td>BlockDoors / BigDoors :</td><td>Max memiliki 3 blockdoors</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Basic Perks :</td><td><p>Sethome : 4</p><p>Kit : Reswara <br>Note : Tidak bisa claim kit dibawahnya</p></td><td></td></tr><tr><td>Flight Crystal :</td><td>Max kapasitas : 960 detik (mendapatkan 55 detik bonus flytime setiap hari) Max fly speed : 4 [survi] World lain : 3<br>Bisa menggunakan semua jenis trails, kecuali flash<br></td><td></td></tr><tr><td>Land Claim</td><td>Max jumlah claim : 7<br>Max block limit : 8000 block</td><td></td></tr><tr><td>Spawner :</td><td>Dapat menaruh spawner, dan bisa mendapatkan spawner dari spawner yang hancur</td><td></td></tr><tr><td>PlayerVault :</td><td>Bisa memakai Vault dengan command : /pv<br>PlayerVault : 2</td><td></td></tr><tr><td>BlockDoors / BigDoors :</td><td>Max memiliki 3 blockdoors</td><td></td></tr><tr><td>PickMeUp : </td><td>Dapat mengangkat Villager dengan shift + klik kiri Villager</td><td></td></tr><tr><td>Mob Rider : </td><td>Bisa mengendarai mobs : axolotl, bat, bee, cat, chicken, cow, fox, dolphine, iron_golem, llama, mooshroom, ocelot, panda, parrot, phantom, pig, rabbit, ravager, sheep, wolf, zoglin, dolphin</td><td></td></tr></tbody></table>
 
 ### Daftar Command yang dapat diakses : &#x20;
 
@@ -16,14 +16,6 @@ Daftar command yang dapat diakses oleh Reswara hampir sama seperti rank dibawahn
 <summary>Portable Ender Chest</summary>
 
 Akses portable ender chest : /ec
-
-</details>
-
-<details>
-
-<summary>Portable Crafting Table</summary>
-
-Akses portable crafting table : /craft
 
 </details>
 
