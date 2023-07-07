@@ -32,6 +32,6 @@ Perhatikan bahwa portal secara default bersifat pribadi, yang berarti hanya kamu
 \
 Aktifkan portal dengan memilih tujuan di konsol terlebih dahulu, kemudian aktifkan tuas. Jika portal tujuan bersifat pribadi, pemilihan tujuan akan diatur ulang setelahnya. Jika kamu memilih portal publik, pemilihan tersebut akan tetap dipertahankan setelah portal dinonaktifkan.
 
-Portal juga dapat diaktifkan dengan menggunakan pengulang redstone yang menghadap langsung ke blok portal. Portal diaktifkan pada tepian sinyal yang meningkat. Deaktivasi terjadi setelah 10 detik seperti biasa. Hal ini hanya berfungsi jika portal tujuan tidak berada di vane-region yang membatasi akses portal dari publik!.\
+Portal juga dapat diaktifkan dengan menggunakan pengulang redstone yang menghadap langsung ke blok portal. Portal diaktifkan pada tepian sinyal yang meningkat. Deaktivasi terjadi setelah 10 detik seperti biasa. Hal ini hanya berfungsi jika portal tujuan tidak berada di vane-region yang membatasi akses portal dari publik!\
 ![](../../.gitbook/assets/portal-activate-use.gif)\
 sc : vane portals

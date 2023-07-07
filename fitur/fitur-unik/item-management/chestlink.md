@@ -1,6 +1,6 @@
 # 👜 ChestLink
 
-Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penggunanya saat menyimpan barang di Chest dengan cara menghubungkan isi Chest dengan Chest lainnya. \
+Seperti namanya, fitur ChestLink merupakan fitur yang dapat memudahkan penggunanya saat menyimpan barang di Chest dengan cara menghubungkan isi Chest dengan Chest lainnya\
 \
 Command List : \
 &#x20;• /chestlink add | "Menambahkan suatu chest menjadi group"\
