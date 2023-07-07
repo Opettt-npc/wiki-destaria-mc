@@ -4,7 +4,7 @@ description: Rank rank yang bisa didapatkan secara gratis??
 
 # 💸 Rank Standar
 
-Rank Standar/gratis, tidak seperti server server lain, di DestariaMc rank seperti Guest Citizen Advanced Veteran, bisa mendapatkan Command seperti layak nya rank rank _<mark style="color:orange;">**P2W**</mark>_\*\* (Setiap naik rank, limit claim Redprotect dan flytime meningkat)\*\*
+Rank Standar/gratis, tidak seperti server server lain, di DestariaMc rank seperti Guest Citizen Advanced Veteran, bisa mendapatkan Command seperti layak nya rank rank <mark style="color:orange;">**P2W**</mark> (Setiap naik rank, limit claim Redprotect dan flytime meningkat)
 
 {% hint style="info" %}
 Rank berikut adalah rank yang bisa kamu dapatkan dengan memenuhi beberapa persyaratan seperti balance in game, jumlah votes, serta playtime di server.\
@@ -16,4 +16,4 @@ Berbeda dengan server lain. Di DestariaMc rank non donator bisa fly, menggunakan
 \
 Kamu bisa menggunakan command <mark style="color:blue;">**/rankup**</mark> untuk mendapatkan rank upgrade setelah kamu memenuhi persyaratan dari upgrade rank yang ada.
 
-### _**Untuk Informasi Rank bisa kalian Check di Subpages.**_
+### **Untuk informasi rank bisa kalian check di subpages.**

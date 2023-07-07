@@ -12,4 +12,4 @@ Tip. Anda bisa memanggil Moderator, Developer atau staff lainnya untuk membantu 
 
 Staff bermain dengan ramah seperti member biasa dan tidak melakukan hal hal yang membuat kamu rugi **(Kecuali staff yang namanya stones! :D)**
 
-Setiap Staff mempunyai tanggung jawabnya masing, seperti berikut -->
+Setiap staff mempunyai tanggung jawabnya masing-masing
