@@ -4,5 +4,5 @@ cara sethome yaitu dengan command <mark style="color:blue;">**/sethome \[name]**
 Exemple : **/sethome FarmVillager**\
 \
 **"trus cara hapusin homenya gimana bang?"**\
-cara ngehapusnya bisa pake <mark style="color:blue;">**/delhome \[name]**</mark>\
+cara ngehapusnya bisa pakai <mark style="color:blue;">**/delhome \[name]**</mark>\
 Exemple : **/delhome FarmVillager**
