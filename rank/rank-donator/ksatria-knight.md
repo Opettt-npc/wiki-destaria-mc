@@ -14,8 +14,24 @@ Daftar command yang dapat diakses oleh Reswara hampir sama seperti rank dibawahn
 
 <details>
 
-<summary></summary>
+<summary>Edit Sign</summary>
 
+Sama seperti reswara namun bedanya rank Ksatria dapat menggunakan warna saat mengedit
 
+</details>
+
+<details>
+
+<summary>Portable Grindstone</summary>
+
+Akses portable grindstone : /grindstone
+
+</details>
+
+<details>
+
+<summary>Visual Weather</summary>
+
+Akses visual weather
 
 </details>
