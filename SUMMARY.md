@@ -56,7 +56,6 @@
   * [Pradana (Alpha)](rank/rank-special/pradana-alpha.md)
   * [Kaloka (Youtuber)](rank/rank-special/kaloka-youtuber.md)
   * [Kanaka (Special)](rank/rank-special/kanaka-special.md)
-* [😁 Kesetaraan Rank-Rank](rank/kesetaraan-rank-rank.md)
 
 ## Rules
 
